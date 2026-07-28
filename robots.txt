@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ftqe9v.koi888.sbs/sitemap.xml
